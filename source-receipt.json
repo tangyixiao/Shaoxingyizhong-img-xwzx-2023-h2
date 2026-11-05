@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "李子紫、舞台洋红与石色的礼堂档案：舞台画面作为高对比居中主图，校门合影横穿上缘，讲座照片以宽幕窗口置于下缘；布局像舞台布景的三层幕面。事实边界：2023 下半年新闻图片分片，不依舞台文字生成演出名称或获奖叙事。",
+    "layout": "folio",
+    "palette": {
+      "light": {
+        "bg": "#E7DCE6",
+        "surface": "#F5ECF2",
+        "ink": "#422D43",
+        "muted": "#735a73",
+        "accent": "#833c72"
+      },
+      "dark": {
+        "bg": "#251928",
+        "surface": "#3C2540",
+        "ink": "#F4E6F2",
+        "muted": "#c09bc0",
+        "accent": "#de9acd"
+      }
+    },
+    "threeConcept": "Three.js 制作紫色绒面展示台和三层可前后错开的照片屏，屏幕边框不发光；只手动转动观看，照片仍是原始二维画面。",
+    "distinctiveInteraction": "点击上、中、下幕的标签，让相应照片到达最前层并显示来源；退出后恢复三幕构图，不做自动轮播。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "研学集体合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2/blob/main/UploadFiles/xwzx/2023/11/202311150818348032.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2/blob/main/UploadFiles/xwzx/2023/11/202311150818348032.jpg",
+      "path": "UploadFiles/xwzx/2023/11/202311150818348032.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "舞台表演，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2/blob/main/UploadFiles/xwzx/2023/7/202307060827042320.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2/blob/main/UploadFiles/xwzx/2023/7/202307060827042320.jpg",
+      "path": "UploadFiles/xwzx/2023/7/202307060827042320.jpg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "讲堂现场，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2/blob/main/UploadFiles/xwzx/2023/9/202309121553590378.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2023-h2/blob/main/UploadFiles/xwzx/2023/9/202309121553590378.jpg",
+      "path": "UploadFiles/xwzx/2023/9/202309121553590378.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
